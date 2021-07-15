@@ -3,6 +3,7 @@ package IntroductionToDataStructure.Day01;
 import java.util.HashMap;
 import java.util.Map;
 
+// 存在重复元素
 public class ContainsDuplicate217 {
     public static void main(String[] args) {
         int[] nums = new int[]{1,2,3,4,1};
